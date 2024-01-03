@@ -9,8 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - ./semuahalaman/about.qmd
       - ./semuahalaman/praktikum.qmd
+      - ./semuahalaman/about.qmd
 
 format:
   html:
