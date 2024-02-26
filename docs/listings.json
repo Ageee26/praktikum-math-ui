@@ -1,0 +1,79 @@
+[
+  {
+    "listing": "/modules/Struktur Data (Python)/strukdat_py.html",
+    "items": [
+      "/modules/Struktur Data (Python)/Strukdat2023_Modul01.html",
+      "/modules/Struktur Data (Python)/Strukdat2023_Modul10.html",
+      "/modules/Struktur Data (Python)/Strukdat2023_Modul02.html",
+      "/modules/Struktur Data (Python)/Strukdat2023_Modul03.html",
+      "/modules/Struktur Data (Python)/Strukdat2023_Modul04.html",
+      "/modules/Struktur Data (Python)/Strukdat2023_Modul05.html",
+      "/modules/Struktur Data (Python)/Strukdat2023_Modul06.html",
+      "/modules/Struktur Data (Python)/Strukdat2023_Modul07.html",
+      "/modules/Struktur Data (Python)/Strukdat2023_Modul08.html",
+      "/modules/Struktur Data (Python)/Strukdat2023_Modul09.html",
+      "/modules/Struktur Data (Python)/Strukdat2023_Modul09a.html",
+      "/modules/Struktur Data (Python)/Strukdat2023_Tugas1.html",
+      "/modules/Struktur Data (Python)/Strukdat2023_Tugas2.html"
+    ]
+  },
+  {
+    "listing": "/modules/Struktur Data (C)/strukdat_c.html",
+    "items": [
+      "/modules/Struktur Data (C)/Strukdat2023_Modul00.html",
+      "/modules/Struktur Data (C)/Strukdat2023_Modul01.html",
+      "/modules/Struktur Data (C)/Strukdat2023_Modul02.html",
+      "/modules/Struktur Data (C)/Strukdat2023_Modul03.html",
+      "/modules/Struktur Data (C)/Strukdat2023_Modul04.html",
+      "/modules/Struktur Data (C)/Strukdat2023_Modul04a.html",
+      "/modules/Struktur Data (C)/Strukdat2023_Modul04b.html"
+    ]
+  },
+  {
+    "listing": "/modules/EDA/eda_py.html",
+    "items": [
+      "/modules/EDA/modul1.html"
+    ]
+  },
+  {
+    "listing": "/modules/modules.html",
+    "items": [
+      "/modules/EDA/eda_py.html",
+      "/modules/PDNum/pdnum.html",
+      "/modules/Sains Data/sainsdata.html",
+      "/modules/Struktur Data (C)/strukdat_c.html",
+      "/modules/Struktur Data (Python)/strukdat_py.html"
+    ]
+  },
+  {
+    "listing": "/modules/PDNum/pdnum.html",
+    "items": [
+      "/modules/PDNum/tugas-pd/tugas-akhir.html",
+      "/modules/PDNum/tugas-pd/tugas-01.html",
+      "/modules/PDNum/tugas-pd/tugas-02.html",
+      "/modules/PDNum/tugas-pd/tugas-03.html",
+      "/modules/PDNum/module/week-01.html",
+      "/modules/PDNum/module/week-02.html",
+      "/modules/PDNum/module/week-02p2.html",
+      "/modules/PDNum/module/week-03.html",
+      "/modules/PDNum/module/week-04.html",
+      "/modules/PDNum/module/week-05.html",
+      "/modules/PDNum/module/week-06.html"
+    ]
+  },
+  {
+    "listing": "/modules/Sains Data/sainsdata.html",
+    "items": [
+      "/modules/Sains Data/main-module/module-tahun-lalu.html",
+      "/modules/Sains Data/tugas/tugas-2.html",
+      "/modules/Sains Data/tugas/tugas-3.html",
+      "/modules/Sains Data/tugas/tugas-akhir.html",
+      "/modules/Sains Data/main-module/week-01.html",
+      "/modules/Sains Data/main-module/week-02.html",
+      "/modules/Sains Data/main-module/week-03.html",
+      "/modules/Sains Data/main-module/week-04.html",
+      "/modules/Sains Data/main-module/week-05.html",
+      "/modules/Sains Data/main-module/week-06.html"
+    ]
+  }
+]

@@ -3,20 +3,32 @@ project:
   output-dir: docs
 
 website:
-  title: "Lab Praktikum Departemen Matematika FMIPA UI"
+  title: "Lab Math UI"
+  search:
+      location: navbar
+      type: textbox
   navbar:
     search: true
     left:
-      - href: index.qmd
-        text: Home
-      - ./semuahalaman/praktikum.qmd
-      - ./semuahalaman/about.qmd
-
+      - text: "Modul"
+        file: modules/modules.qmd
+      - text: "Contact"
+        file: contact.qmd
+  
+  sidebar:
+    - title: "Exploratory Data Analysis"
+      style: "docked"
+      contents: EDA/*
+    - title: "Struktur Data (C)"
+      contents: auto
+  page-navigation: false
+  page-footer: "Copyright 2024, Lab Departemen Matematika FMIPA UI" 
+  
 format:
   html:
-    theme: litera
-    css: styles.css
+    theme: flatly
     toc: true
+
 
 
 

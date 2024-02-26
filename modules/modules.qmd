@@ -1,0 +1,13 @@
+---
+title: "Modul"
+sidebar: false
+listing: 
+    contents:
+    - eda_py.qmd
+    - strukdat_c.qmd
+    - strukdat_py.qmd
+    - sainsdata.qmd
+    - pdnum.qmd
+    type: grid
+    fields: [image, title]
+---
